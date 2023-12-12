@@ -4,13 +4,12 @@ Email: nicholasu750@lpsk12.org and nicholas.lastnameshort@gmail.com
 ## About Me
 * Semi proficient in Java and Python
 * Learning Piano
-* Semi proficient Solidworks
+* Semi proficient in Solidworks
 ### Strengths
 - Quick Learner
 ### Goals
 - Proficiency in Piano 
 - Proficiency in Java
-
 ---
 ## EPIC Experience
 - Software Engineering I - Data Structures
@@ -20,10 +19,8 @@ Email: nicholasu750@lpsk12.org and nicholas.lastnameshort@gmail.com
 
 ### Workforce Readiness
 - I learned how to be more open with peers in a collaborative environment, as well as practised professional communicating using body language and proper tone.
-
 ### Professional Experiences
 - SC23
-
 ---
 ## Projects: 
 -  Wordle - https://github.com/EPIC-Campus-LPS/wordle-nicholas-shortlastname
@@ -67,4 +64,3 @@ Email: nicholasu750@lpsk12.org and nicholas.lastnameshort@gmail.com
 - Solidworks
 - Java
 - Python
-- Piano
