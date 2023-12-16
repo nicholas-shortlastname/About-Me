@@ -52,6 +52,9 @@ Email: nicholasu750@lpsk12.org and nicholas.lastnameshort@gmail.com
 -  Binary Search Trees - https://github.com/EPIC-Campus-LPS/binary-search-trees-2-nicholas-shortlastname
 	- In this project, given a class for a node, I coded a class that emulated the functionality of a Binary Search Tree.
 	- I practiced using Objects, Elements, Nodes, and Node references, and learned about Pre-Order, Post-Order, and In-Order traversals.
+-  Hangman with a Twist - https://github.com/EPIC-Campus-LPS/hangmanwithatwist-nicholas-shortlastname
+	- In this project, I made a cheating Hangman game
+	- I practiced using methods, Hash Tables, and Linked Lists.
 
 
 ---
