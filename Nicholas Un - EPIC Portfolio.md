@@ -18,6 +18,8 @@ Email: nicholasu750@lpsk12.org and nicholas.lastnameshort@gmail.com
 ---
 
 ## EPIC Experience
+![image](https://github.com/nicholas-shortlastname/About-Me/assets/142338927/5c667d65-4c68-4d26-9836-dec95d69e591)
+
 - Software Engineering I - Data Structures
 - Software Engineering II - Capstone.
 ### Data Structures
