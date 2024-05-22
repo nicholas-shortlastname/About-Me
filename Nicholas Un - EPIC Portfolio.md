@@ -1,6 +1,5 @@
 # Nicholas Un
 Pronouns: He/Him
-Pronouns: He/Him
 
 Email: nicholasu750@lpsk12.org and nicholas.lastnameshort@gmail.com
 ## About Me
